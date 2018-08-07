@@ -208,10 +208,10 @@ Trennen
                 - bessere Oberflächenqualität
                 - Stöße und Schwingungen durch Systemsteifigkeit vermeiden
             Freiformflächenbearbeitung
-                Schruppen
-                Vorschlichten
-                Feinfertigschlichten
-                Verschleifen/Polieren
+                - Schruppen
+                - Vorschlichten
+                - Feinfertigschlichten
+                - Verschleifen/Polieren
     Geometrisch unbestimmte Schneide
         Bahngebunden
             Schleifen
@@ -262,8 +262,8 @@ Trennen
                             - Profilrolle
                             - Formrolle
                             - Topfscheibe
-                    Gegenlaufabrichten
-                    Gleichlaufabrichten
+                    - Gegenlaufabrichten
+                    - Gleichlaufabrichten
 
         Kraftgebunden
             Honen? was geht da ab
@@ -277,7 +277,7 @@ Trennen
                     - Schwingläppen
     Abtragen
         Thermisch
-            Funkenerosion | Electrical Discharge Machining (EMD)
+            Funkenerosion | Electrical Discharge Machining (EDM)
                 Eigenschaften
                     - Unabhängig von mechanischen Eigenschaften der Werkstückmaterialen(z. B. E-Modul, Härte)
                     - zu bearbeitender Werkstoff muss elektrisch Leitfähig sein
@@ -672,6 +672,13 @@ Stoffeigenschaften ändern
 _________________________________________________
 
 Generative Fertigung
+    Produktherstellung
+        Rapid Prototyping
+        
+
+        Rapid tooling
+        Rapid Manufacturing
+        Additive Manufacturing
     Technologien
         Steriolithography
             • UV-Laser härtet flüssiges Photopolymer an der Oberfläche eines Bades

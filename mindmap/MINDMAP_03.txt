@@ -142,7 +142,6 @@ Umformen
         Massivumformung
         Blechumformung
     Stationäre/Instationäre Umformpreozesse
-
 Trennen
     Zerteilen
     Geometrisch bestimmte Schneide
@@ -530,8 +529,6 @@ Fügen
             Ende Umfalten, klebefläche vergrößern, versteifungen
 
     Textiles Fügen
-
-
 Beschichtung
     - Dekoration oder Funktion
     Beschichten aus:
@@ -627,7 +624,6 @@ Beschichtung
                 Kaltgasspritzen
 
         ..sonstige
-
 Stoffeigenschaften ändern
     Verfestigen durch Umformen
         Walzen/Ziehen
@@ -773,8 +769,6 @@ Generative Fertigung
                 -Nur Wachs-ähnliche Materialien einsetzbar
                 -Bauteile fragil
                 -Langsamer Prozess
-
-
     Fertigungsverfahren
         Generative Verfahren
             • Schichtweiser Aufbau
@@ -785,9 +779,7 @@ Generative Fertigung
             • Späne
             • Kühlschmierstoffe
     Begriffe
-
-
-    Hybrider Leichtbau
+Hybrider Leichtbau
       Verbund/Hybrid
           Verbundwerkstoffe
               -Kombination unterschd. Werkstoffe zu neuem
@@ -927,4 +919,5 @@ Generative Fertigung
                     -Einzelne Fasertapes und -patches zur lokalen Verstärkung dünner Blechstrukturen
                     -Kleine bis mittlere/große Stückzahlen
                     -z.B. lok. Verstärkung von Strukturbauteilen
+
 Messtechnik/ Prozessüberwachung

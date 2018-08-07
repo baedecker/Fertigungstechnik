@@ -1,11 +1,11 @@
 _________________________________________________
 Urformen
+    ->Ist das Fertigen eines festen Körpers aus formlosen Stoff durch Schaffen des Zusammenhalts
     Gießen
         -komplizierte Geometrien
         -wenig Nachbearbeitung
         -100% Recycling
         -hohe Werkstoffvielfalt->anwendungsoptimierte Eigenschaften
-
         Gießverfahren
           -statisch (verlorene Form, Dauerform)
             -Sandgießen
@@ -14,55 +14,54 @@ Urformen
           -dynamisch
             -Bewegung der Form (Schleuder-, Sutrzgießen)
             -Bewegung des Gießmaterials (Druckgießen)
+            Formverfahren
+                -Dauermodell und verlorene Form (Sandguss, Handformen, Maschinenformen, Shaw-Verfahren)
+                      Bsp. Fertigung eines Gusstücks mit zweiteiligem Modell:
+                      1. Fertigungszeichnung
+                      2. Unterkasten aufstampfen
+                      (mechanische Verfestigung
+                      bei tongebundenen
+                      Formstoffen)
+                      3. Oberkasten aufstampfen
+                      4. Modell ausheben
+                      5. Kern einlegen
+                      6. Zulegen und Abgießen der
+                      verlorenen Form
+                      7. Rohgussstück mit
+                      Gießsystem und Luftpfeifen
 
-        Formverfahren
-          -Dauermodell und verlorene Form (Handformen, Maschinenformen)
-            Bsp. Fertigung eines Gusstücks mit zweiteiligem Modell:
-            1. Fertigungszeichnung
-            2. Unterkasten aufstampfen
-            (mechanische Verfestigung
-            bei tongebundenen
-            Formstoffen)
-            3. Oberkasten aufstampfen
-            4. Modell ausheben
-            5. Kern einlegen
-            6. Zulegen und Abgießen der
-            verlorenen Form
-            7. Rohgussstück mit
-            Gießsystem und Luftpfeifen
+                -Verlorenes Modell und verlorene Form (Vollformgießen, Feingießen)
+                      Bsp. Feingießen:
+                      1.-2. Modellherstellung
+                      3.Schalenbildung durch mehrmaliges Tauchen und Besanden
+                      4. Aufschmelzen und Brennen 800-1100°C
+                      5. Gießen
+                      6. Ausklopfen & Abtrennen
+                      (Grafiken auf Folie 20,Kapitel 2)
 
-          -Verlorenes Modell und verlorene Form (Vollformgießen, Feingießen)
-            Bsp. Feingießen:
-            1.-2. Modellherstellung
-            3.Schalenbildung durch mehrmaliges Tauchen und Besanden
-            4. Aufschmelzen und Brennen 800-1100°C
-            5. Gießen
-            6. Ausklopfen & Abtrennen
-            (Grafiken auf Folie 20,Kapitel 2)
-
-          -Dauerform -ohne Modelle(Druckgießen, Kokillengießen, Schleudergießen, Stranggießen)
-            -Druckgießen: Flüssige Schmelze wird unter hohem Druck in eine Dauerform gepresst (Massenfertigung)
-            -Kokillengießen: Niederdruck->Schmelze wird in Form gepresst, Sturzguss->Schwerkraft drückt Schmelze in Form
-            -Schleudergießen: Rotationssymmetrische Bauteile, Rotation drückt Schmelze in rotierende Gussform (Kokille)
-            -Stranggießen: Die Schmelze wir durch eine nach unten geöffnete Kokille geprepresst und dabei normalerweise Wassergekühlt und ausgehärtet
+                -Dauerform -ohne Modelle(Druckgießen, Kokillengießen, Schleudergießen, Stranggießen)
+                      -Druckgießen(Kaltkammer und Warmkammer): Flüssige Schmelze wird unter hohem Druck in eine Dauerform gepresst (Massenfertigung)
+                      -Kokillengießen: Niederdruck->Schmelze wird in Form gepresst, Sturzguss->Schwerkraft drückt Schmelze in Form
+                      -Schleudergießen: Rotationssymmetrische Bauteile, Rotation drückt Schmelze in rotierende Gussform (Kokille)
+                      -Stranggießen: Die Schmelze wir durch eine nach unten geöffnete Kokille geprepresst und dabei normalerweise Wassergekühlt und ausgehärtet
     Pulvermetallurgie
       Allgemein
         -Pulver->Mischen->Pressen->Sintern->Kalibrieren
         -Bauteile sind porös, da Schmiermittel ausbrennen und Hohlräume entstehen
       Verfahrensschritte:
         ->Pulverherstellung und Legierungen
-          Wichtigste: Direktreduktion von Eisenerz mit anschließender zerkleinerung des Eisenschwamms und Wasservedunstungsverfahren
-         -Chemische Verfahren
-         -Elektroch. Verfahren
-         -Zerkleinerungsverfahren
-          Legierungen:
-            -Fertiglegieren: Puvler hat bereits Legierungseigenschaften
-            -Mischlegieren: Pulvermischung-> lange Sinterzeiten und hohe Temp. erforderlich
-            -Anlegieren: Diffusionslegieren und Adhäsionslegieren
+              Wichtigste: Direktreduktion von Eisenerz mit anschließender zerkleinerung des Eisenschwamms und Wasservedunstungsverfahren
+             -Chemische Verfahren
+             -Elektroch. Verfahren
+             -Zerkleinerungsverfahren
+            Legierungen:
+                -Fertiglegieren: Puvler hat bereits Legierungseigenschaften
+                -Mischlegieren: Pulvermischung-> lange Sinterzeiten und hohe Temp. erforderlich
+                -Anlegieren: Diffusionslegieren und Adhäsionslegieren
         ->Pulver
-          -Metallische Eigenschaften: chem. Zusammensetzung, Mikrohärte, Gefüge
-          -Geometische Eigenschaften: Korngrößenverteilung, Äußere Kornform, innere Kornstruktur
-          -Mechanische Eigenschaften: Fließzeit, Schüttdichte, Verpressbarkeit, Grünfestigkeit...
+            -Metallische Eigenschaften: chem. Zusammensetzung, Mikrohärte, Gefüge
+            -Geometische Eigenschaften: Korngrößenverteilung, Äußere Kornform, innere Kornstruktur
+            -Mechanische Eigenschaften: Fließzeit, Schüttdichte, Verpressbarkeit, Grünfestigkeit...
         ->Pressen
           -Flüllen->Verdichten->Ausstoßen (entstehung Grünling)
            -Zwei Presswerkzeuge
@@ -72,18 +71,17 @@ Urformen
           -Wärmebehandlung führt zu festem Gefügeverband (Diffusinsvorgänge)
           -1120°C-1280°C
         ->Grünling: Entstehung beim Pressen, Formgebung, keine äußere Hülle benötigt
-        ->Weißling/Bräunling: Entstehung beim Pulverspritzguss (Bindemittel nötig), Entbinderung des Grünteils, Braunteil (metallisch)/ Weißling (keramisch)
+        ->Weißling/Bräunling: Entbinderung(Binde mittel entfernen) des Grünteils, Braunteil (metallisch)/ Weißling (keramisch)
     Wirtschaftlichkeit/Genauigkeit
       Vorteile
         -gute Werkstoffausnutzung
         -bei 'geringem' Energiebedarf
          ->Sintern am effizientesten
-       Nachteile:
+      Nachteile:
         -Volumenschwund beim Gießen, Maßänderung beim Sinter
         -hohe abh. von Temperatur und Werkstoff Homogenität
 Umformen
-    Spannungszusetand
-
+    Spannungszustand
         Druckumformen
             Gesenkschmieden
                 -Negativform
@@ -114,9 +112,6 @@ Umformen
             Drücken
                 -Engen, aufweiten, Innenborde, außenborde, einhalsen, Gewindedrücken
                 - Fertigungsfehler: radiale/tangentiale Risse, Faltenbildung
-
-
-
         Zugdruckumformen
             Tiefziehen
                 Tiefzeihfehler: Zipfelbildung, außermittige Rondenlage, Bodenreißer, Lippenbildung
@@ -126,12 +121,9 @@ Umformen
                 Einfaches Streckziehen
                 Tangentiales Streckziehen
                 Versagensformen: einschnüren, sprödbruch, Risse im Scheitelbereich/im verecj der spanzange
-
         Biegeumformen
             Gesenkbiegen
                 Problem der Rückfederung
-
-
         Schubumformen
             Verschieben
     Einsatztemperatur
@@ -163,6 +155,22 @@ Trennen
                     - eingesinterter Spanformer
                     - gesvhliffene Spanformstufe
                     - gelaserte Spanformstufe
+        Verschleiß
+            Spanfläche
+                Kolkverschleiß:
+                  Mechanischer Abrieb, Diffusion, Oxidation(Verzunderung)
+                Kammrisse:
+                  thermische Wechselbelastung
+            Freifläche
+                Freiflächenverschleiß:
+                  Mechanischer Abrieb, Abscheren von Pressschweißstellen
+                Querrisse:
+                  mechanische Wechselbelastung
+            Schneidkanten
+                plastische Deformation der Schneidkante:
+                  mechanische und thermischer Überbeanspruchung
+                Ausbrüche, Kerben:
+                  Mechanischer und thermischer Überbeanspruchung
         Bohren
             Arten
                 - Spiralbohrer
@@ -180,7 +188,6 @@ Trennen
                 - Epsilon Werkzeug-Eckenwinkel
             Verfahren
                 -Einlippen Tiefbohren
-
         Fräsen
             Verfahren
                 - Stirn-Planfresen
@@ -205,9 +212,6 @@ Trennen
                 Vorschlichten
                 Feinfertigschlichten
                 Verschleifen/Polieren
-
-
-
     Geometrisch unbestimmte Schneide
         Bahngebunden
             Schleifen
@@ -271,7 +275,6 @@ Trennen
                     - Läppen von Außenflächen
                     - Formläppen
                     - Schwingläppen
-
     Abtragen
         Thermisch
             Funkenerosion | Electrical Discharge Machining (EMD)
@@ -426,7 +429,6 @@ Trennen
                     - es wird eine Gleichspannung zwischen Anode und Kathode angelegt
                     - an der Anode geht das Metall unter Abgabe von Elektronen als Metallionen in die Elektrolytlösung über
                 Elektrochemisches Formabtragen
-
     Zerlegen
     Reinigen
 Fügen

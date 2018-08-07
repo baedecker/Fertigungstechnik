@@ -12,7 +12,7 @@ Urformen
             -Kokillengießen
             -Feingießen
           -dynamisch
-            -Bewegung der Form (Schleuder-, Sutrzgießen)
+            -Bewegung der Form (Schleuder-, Sturtzgießen)
             -Bewegung des Gießmaterials (Druckgießen)
 
         Formverfahren
@@ -51,11 +51,11 @@ Urformen
         -Bauteile sind porös, da Schmiermittel ausbrennen und Hohlräume entstehen
       Verfahrensschritte:
         ->Pulverherstellung und Legierungen
-          Wichtigste: Direktreduktion von Eisenerz mit anschließender zerkleinerung des Eisenschwamms und Wasservedunstungsverfahren
-         -Chemische Verfahren
-         -Elektroch. Verfahren
-         -Zerkleinerungsverfahren
-          Legierungen:
+             Wichtigste: Direktreduktion von Eisenerz mit anschließender zerkleinerung des Eisenschwamms und Wasservedunstungsverfahren
+            -Chemische Verfahren
+            -Elektroch. Verfahren
+            -Zerkleinerungsverfahren
+        Legierungen:
             -Fertiglegieren: Puvler hat bereits Legierungseigenschaften
             -Mischlegieren: Pulvermischung-> lange Sinterzeiten und hohe Temp. erforderlich
             -Anlegieren: Diffusionslegieren und Adhäsionslegieren
@@ -74,13 +74,13 @@ Urformen
         ->Grünling: Entstehung beim Pressen, Formgebung, keine äußere Hülle benötigt
         ->Weißling/Bräunling: Entstehung beim Pulverspritzguss (Bindemittel nötig), Entbinderung des Grünteils, Braunteil (metallisch)/ Weißling (keramisch)
     Wirtschaftlichkeit/Genauigkeit
-      Vorteile
-        -gute Werkstoffausnutzung
-        -bei 'geringem' Energiebedarf
-         ->Sintern am effizientesten
-       Nachteile:
-        -Volumenschwund beim Gießen, Maßänderung beim Sinter
-        -hohe abh. von Temperatur und Werkstoff Homogenität
+        Vorteile
+             -gute Werkstoffausnutzung
+             -bei 'geringem' Energiebedarf
+            ->Sintern am effizientesten
+        Nachteile:
+            -Volumenschwund beim Gießen, Maßänderung beim Sinter
+            -hohe abh. von Temperatur und Werkstoff Homogenität
 Umformen
     Spannungszusetand
 
@@ -114,9 +114,6 @@ Umformen
             Drücken
                 -Engen, aufweiten, Innenborde, außenborde, einhalsen, Gewindedrücken
                 - Fertigungsfehler: radiale/tangentiale Risse, Faltenbildung
-
-
-
         Zugdruckumformen
             Tiefziehen
                 Tiefzeihfehler: Zipfelbildung, außermittige Rondenlage, Bodenreißer, Lippenbildung

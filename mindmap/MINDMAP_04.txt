@@ -1,0 +1,925 @@
+_________________________________________________
+Urformen
+    ->Ist das Fertigen eines festen Körpers aus formlosen Stoff durch Schaffen des Zusammenhalts
+    Gießen
+        -komplizierte Geometrien
+        -wenig Nachbearbeitung
+        -100% Recycling
+        -hohe Werkstoffvielfalt->anwendungsoptimierte Eigenschaften
+        Gießverfahren
+          -statisch (verlorene Form, Dauerform)
+            -Sandgießen
+            -Kokillengießen
+            -Feingießen
+          -dynamisch
+            -Bewegung der Form (Schleuder-, Sutrzgießen)
+            -Bewegung des Gießmaterials (Druckgießen)
+            Formverfahren
+                -Dauermodell und verlorene Form (Sandguss, Handformen, Maschinenformen, Shaw-Verfahren)
+                      Bsp. Fertigung eines Gusstücks mit zweiteiligem Modell:
+                      1. Fertigungszeichnung
+                      2. Unterkasten aufstampfen
+                      (mechanische Verfestigung
+                      bei tongebundenen
+                      Formstoffen)
+                      3. Oberkasten aufstampfen
+                      4. Modell ausheben
+                      5. Kern einlegen
+                      6. Zulegen und Abgießen der
+                      verlorenen Form
+                      7. Rohgussstück mit
+                      Gießsystem und Luftpfeifen
+
+                -Verlorenes Modell und verlorene Form (Vollformgießen, Feingießen)
+                      Bsp. Feingießen:
+                      1.-2. Modellherstellung
+                      3.Schalenbildung durch mehrmaliges Tauchen und Besanden
+                      4. Aufschmelzen und Brennen 800-1100°C
+                      5. Gießen
+                      6. Ausklopfen & Abtrennen
+                      (Grafiken auf Folie 20,Kapitel 2)
+
+                -Dauerform -ohne Modelle(Druckgießen, Kokillengießen, Schleudergießen, Stranggießen)
+                      -Druckgießen(Kaltkammer und Warmkammer): Flüssige Schmelze wird unter hohem Druck in eine Dauerform gepresst (Massenfertigung)
+                      -Kokillengießen: Niederdruck->Schmelze wird in Form gepresst, Sturzguss->Schwerkraft drückt Schmelze in Form
+                      -Schleudergießen: Rotationssymmetrische Bauteile, Rotation drückt Schmelze in rotierende Gussform (Kokille)
+                      -Stranggießen: Die Schmelze wir durch eine nach unten geöffnete Kokille geprepresst und dabei normalerweise Wassergekühlt und ausgehärtet
+    Pulvermetallurgie
+      Allgemein
+        -Pulver->Mischen->Pressen->Sintern->Kalibrieren
+        -Bauteile sind porös, da Schmiermittel ausbrennen und Hohlräume entstehen
+      Verfahrensschritte:
+        ->Pulverherstellung und Legierungen
+              Wichtigste: Direktreduktion von Eisenerz mit anschließender zerkleinerung des Eisenschwamms und Wasservedunstungsverfahren
+             -Chemische Verfahren
+             -Elektroch. Verfahren
+             -Zerkleinerungsverfahren
+            Legierungen:
+                -Fertiglegieren: Puvler hat bereits Legierungseigenschaften
+                -Mischlegieren: Pulvermischung-> lange Sinterzeiten und hohe Temp. erforderlich
+                -Anlegieren: Diffusionslegieren und Adhäsionslegieren
+        ->Pulver
+            -Metallische Eigenschaften: chem. Zusammensetzung, Mikrohärte, Gefüge
+            -Geometische Eigenschaften: Korngrößenverteilung, Äußere Kornform, innere Kornstruktur
+            -Mechanische Eigenschaften: Fließzeit, Schüttdichte, Verpressbarkeit, Grünfestigkeit...
+        ->Pressen
+          -Flüllen->Verdichten->Ausstoßen (entstehung Grünling)
+           -Zwei Presswerkzeuge
+            ->Ausstoßverfahren: Füllen->Pressen->Druckentlastug->Unterstempel hochfahren->Grünling entnehmen
+            ->Abziehverfahren: Füllen->Presen->Druckentlastung und Matrize absenken->Grünling entnehmen
+        ->Sintern
+          -Wärmebehandlung führt zu festem Gefügeverband (Diffusinsvorgänge)
+          -1120°C-1280°C
+        ->Grünling: Entstehung beim Pressen, Formgebung, keine äußere Hülle benötigt
+        ->Weißling/Bräunling: Entbinderung(Binde mittel entfernen) des Grünteils, Braunteil (metallisch)/ Weißling (keramisch)
+    Wirtschaftlichkeit/Genauigkeit
+      Vorteile
+        -gute Werkstoffausnutzung
+        -bei 'geringem' Energiebedarf
+         ->Sintern am effizientesten
+      Nachteile:
+        -Volumenschwund beim Gießen, Maßänderung beim Sinter
+        -hohe abh. von Temperatur und Werkstoff Homogenität
+Umformen
+    Spannungszustand
+        Druckumformen
+            Gesenkschmieden
+                -Negativform
+                -Obergesenk, Untergesenk, Gravur, Rohling, Schmiedeteil
+                Ohne Gradmulde
+                    -Vollständige Werkstoffausnutzung
+                    -Zulässige Volumenschwankung 0,5 %
+                    -Genaue Werkstoffzentrierung erf.
+                Mit Gradmulde
+                    -geringe Anforderungen an Werkstoffvolumenschwankung
+                    -keine Präzise Positionierung erf.
+                    -entfernen des Grades erforderlich
+                Werkzeugverschlleiß
+                    -Reibung, rissbildung durch ermüdung(termisch/mechanisch), plasitsche Verformung
+            Walzen
+                Ringwalzen
+                Verzahnungswalzen
+                    - Kurze Prozesszeiten
+                    - Keine Späne
+                    - Kaltverfestigung führt zu Festigkeitssteigerung
+                    - Spiegelblanke Oberflächen
+                    - Konturangepasster „Faserverlauf“
+            Fließpressen
+                - Voll, Hohl, Napf
+                - Quer, vorwärts, rückwärts
+                - Anwendung: Alu büchsen, hydraulische zylinder unf Kolben
+            Srangpressen
+            Drücken
+                -Engen, aufweiten, Innenborde, außenborde, einhalsen, Gewindedrücken
+                - Fertigungsfehler: radiale/tangentiale Risse, Faltenbildung
+        Zugdruckumformen
+            Tiefziehen
+                Tiefzeihfehler: Zipfelbildung, außermittige Rondenlage, Bodenreißer, Lippenbildung
+                taylor blanks
+        Zugumformen
+            Streckziehen
+                Einfaches Streckziehen
+                Tangentiales Streckziehen
+                Versagensformen: einschnüren, sprödbruch, Risse im Scheitelbereich/im verecj der spanzange
+        Biegeumformen
+            Gesenkbiegen
+                Problem der Rückfederung
+        Schubumformen
+            Verschieben
+    Einsatztemperatur
+        Kaltumformung 20°
+        Halbwarmumformung 720-950°
+        Warmumformung 1200°
+    Halbzeug
+        Massivumformung
+        Blechumformung
+    Stationäre/Instationäre Umformpreozesse
+Trennen
+    Zerteilen
+    Geometrisch bestimmte Schneide
+        Drehen
+            Geometrie
+                - Hauptschneide, Nebenschneide, Schneidecke
+                - Hauptfreifläche, Spanfläche, Nebenfreifläche
+                WICHTIGE GRÖßEN
+                - Freiwinkel Alpha, Keilwinkel Beta, Spanwinkel Gamma
+                - Spanwinkel, Einstellwinkel, Neigungswinkel, Freiwinkel der Hauptschneide, Freiwinkel der Nebenschneide
+                - Vorschub f, Spanungsbreite b, Spanundsdicke h, Spanungsquerschnitt A, Schnitttiefe a, Vf vorschubgeschwindigkeit, Vc Schnittgeschwindigkeit, x Einstellwinkel
+            Spanformen
+                Arten
+                    Fließspanbildung, lamellenspanbildung, scherspanbildung Reißspanbildung
+                    Bandspäne, Wirrspäne, Flachwendelspäne, lange Zylindrische Wendelspäne, Wendelspanstücke, Spiralspanstücke, Bröckelspäne
+                             Ungünstig -----------------> Brauchbar
+                Beeinflussung durch Spanleitstufen
+                    - aufgeklemmter Spanformer
+                    - eingesinterter Spanformer
+                    - gesvhliffene Spanformstufe
+                    - gelaserte Spanformstufe
+        Verschleiß
+            Spanfläche
+                Kolkverschleiß:
+                  Mechanischer Abrieb, Diffusion, Oxidation(Verzunderung)
+                Kammrisse:
+                  thermische Wechselbelastung
+            Freifläche
+                Freiflächenverschleiß:
+                  Mechanischer Abrieb, Abscheren von Pressschweißstellen
+                Querrisse:
+                  mechanische Wechselbelastung
+            Schneidkanten
+                plastische Deformation der Schneidkante:
+                  mechanische und thermischer Überbeanspruchung
+                Ausbrüche, Kerben:
+                  Mechanischer und thermischer Überbeanspruchung
+        Bohren
+            Arten
+                - Spiralbohrer
+                - Spiralsenker dreischneider
+                - Profilsenker
+                - Zentrierbohrer
+                - Kernbohrer
+                - Gewindebohrer
+                - Maschinenreibahle
+            Geometrie
+                - Alpha Werkzeug-Othogonalfreiwinkel
+                - Beta Werkzeug-Othogonalkeilwinkel
+                - Gamma Werkzeug-Othogonalspanwinkel
+                - Kr Werkzeug-Einstellwinkel
+                - Epsilon Werkzeug-Eckenwinkel
+            Verfahren
+                -Einlippen Tiefbohren
+        Fräsen
+            Verfahren
+                - Stirn-Planfresen
+                - Umfangs-Planfresen
+                - Umfangs-Stirn-Planfresen
+                - Schraubfräsen
+                - Wälzfräsen
+                - Profilfräsen
+                - Formfräsen
+            Gegenlauffräsen
+                - Drehrichtung des Fräsers entgegen der Vorschubrichtung
+                - Verfestigung des Werkstoffs durch Gleiten der Schneide vor der Spanabhebung
+                - erhöhter Verschleiß an der Freifläche
+                - Mögliches Abheben der Werkstücks
+            Gleichlauffräsen
+                - Schlagartiger Eingriff der Schneide
+                - Maximale Schnittkräfte beim Schneideneingriff
+                - bessere Oberflächenqualität
+                - Stöße und Schwingungen durch Systemsteifigkeit vermeiden
+            Freiformflächenbearbeitung
+                Schruppen
+                Vorschlichten
+                Feinfertigschlichten
+                Verschleifen/Polieren
+    Geometrisch unbestimmte Schneide
+        Bahngebunden
+            Schleifen
+                Arten
+                    - Längs-Umfangs-Planschleifen
+                    - Längs-Seiten-Planschleifen
+                Schleifmittel
+                    - Schleifscheibe
+                    - Scheleifstift
+                    - Schleifstein/Abziehstein
+                    - Topf-Schleifscheibe
+                Verfahren
+                    - Außenrund-Umfangs-Querschleifen
+                    - Außenrund-Umfangs-Längsschleifen
+                    - Außenrund-Seiten-Querschleifen
+
+                    - Innenrund-Umfangs-Querschleifen
+                    - Innenrund-Umfangs-Längsschleifen
+
+                    - Plan-Umfangs-Querschleifen
+                    - Plan-Umfangs-Längsschleifen
+                    - Plan-Seiten-Querschleifen
+
+                    - Dreh-Umfangs-Querschleifen
+                    - Dreh-Umfangs-Längsschleifen
+                    - Dreh-Seiten-Querschleifen
+                Aufbau
+                    -Kornschneide
+                    -Bindung
+                Natürliche Kornwerkstoffe
+                    -Quarz, Kornund, Schmiergel, Granat, Diamant
+                Verschleiß
+                    -Mikrorisse
+                    -Kornbruch
+                    -Bindungsbruch
+                    -Chemischer/Thermischer Bindungsverschleiß
+                Konditionierung
+                    Abrichten
+                      - Profilieren
+                      - Schärfen
+                    - Reinigen
+                    Abrichtwerkzeuge
+                        Stehende
+                            - Einkornabrichter
+                            - Abrichtplatte
+                            - Vielkornabrichter
+                        Rotierende
+                            - Profilrolle
+                            - Formrolle
+                            - Topfscheibe
+                    Gegenlaufabrichten
+                    Gleichlaufabrichten
+
+        Kraftgebunden
+            Honen? was geht da ab
+        Raumgebunden
+            Läppen
+                Verfahren
+                    - Parallelläppen
+                    - Plankäppen von innenflächen
+                    - Läppen von Außenflächen
+                    - Formläppen
+                    - Schwingläppen
+    Abtragen
+        Thermisch
+            Funkenerosion | Electrical Discharge Machining (EMD)
+                Eigenschaften
+                    - Unabhängig von mechanischen Eigenschaften der Werkstückmaterialen(z. B. E-Modul, Härte)
+                    - zu bearbeitender Werkstoff muss elektrisch Leitfähig sein
+
+                Prinzip
+                    - Der Abtragprozess findet in einer elektrisch nichtleitenden (dielektrischen) Flüssigkeit statt.
+                    - Werkstück und Werkzeug werden in Arbeitsposition gebracht (mit einemverbleibenden Arbeitsspalt dazwischen)
+                    - Bei Anlegung elektrischer Spannung an der Elektrode kommt es nach Überschreiten der Durchschlagfestigkeit des Arbeitsmediums zur Bildung eines energiereichen Plasmakanals
+                      (Die Durchschlagfestigkeit ist durch den Elektrodenabstand und die elektrische Leitfähigkeit des Dielektrikums vorgegeben)
+                Phasen
+                    - Aufbauphase
+                    - Entladungsphase
+                    - Abbruchvorgang
+                Varianten
+                    Funkenerosives Senken
+                        -Gravieren
+                        -Bohren
+                        -Beispiele: Spritzgießformen, Uhrengehäuse
+                        Mehrkanalerosion    ---> Höhere Abtragrate
+                        Planetärerosion     ---> erhöhte Formenvielfalt
+                        Bahnerosion         ---> Elektrodenanzahl und –Komplexität verringert
+                        Prinzip Senkerosion ---> Werkzeugelektrode erzeugt Negativform in Werkstück
+                    Funkenerosives Schneiden
+                        - Ablaufende Drahtelektrode
+                        - Blattelektrode
+                        - Beispiel:Scherköpfe für Rasierapparate, Scherköpfe für Rasierapparate
+                Vorteile
+                    - Bearbeitung ist unabhängig von Härte und Festigkeit des Werkstückmaterials
+                    - hohe geometrische Komplexität
+                    - geringe Fertigungstoleranz
+                    - Oberflächenrauheit bis zu Ra = 0,05 μm
+                    - hoher Automatisierungsgrad
+                Nachteile
+                    - Geringe Abtragrate, deshalb nicht einsetzbar für die Massenproduktion (Ausnahme z.B. Fertigung Einspritzdüsen)
+                    - thermische Beeinflussung der Bauteilrandzone
+                    - Entstehung von Sondermüll
+            Lasern
+                Eigenschaften Laser
+                    - monochromatisch
+                    - kohärent
+                    - hohe Intensität
+                    - geringe Divergenz
+                Laserstrahl erzeugen
+                    - durch anregung springen elektronen des aktiven Mediums in einen höher energetischen Zustand über.
+                    - beim zurückspringen auf basislvl wird ein fotobn emittiert
+                    - Wellenlänge des emittierten Lichts: Charakteristisch für das jeweilige Lasermedium
+                CO2-Laser
+                    - Gasgemisch aus He, N2 und CO2; Laseraktives Medium: CO2 (Wellenlänge 10,6 μm)
+                    - hohe Gleichspannung oder Hochfrequenz-Wechselspannung  freie Elektronen entstehen durch Gasentladung
+                    - Stöße mit N2-Molekülen führen zu Schwingungsanregung
+                    - Energieabgabe der N2-Möleküle durch Stöße mit CO2-Molekülen
+                    - Anheben in höheres Energieniveau bei Übergang zurück in das niedrigere Energieniveau senden die CO2-Moleküle Laserlicht aus
+                    - Anwendung: Schneiden, Markieren, Schweißen, Bohren, Oberflächen-behandlung
+                Nd:YAG-Lasers (Festkörperlaser)
+                    - Mit Neodymionen dotierter Yttrium-Aluminium-Granat-Kristall (Wellenlänge 1,06 μm)
+                    - Blitzlampen entwickeln sehr viel Licht
+                    - Energie der Lichtblitze sorgt für die Anregung der Neodymionen
+                    - Neodymionen emittieren bei Rückfall in niedrigeres Energieniveau Laserlicht
+                    - Sobald die Intensität hoch genug ist, tritt der Strahl durch die teilverspiegelte Fläche aus
+                    - Anwendung: Schneiden, Markieren, Schweißen, Bohren, Oberflächen-behandlung
+                Excimer-Lasers (gepulster Gaslaser)
+                    - Excimer Laser: abgeleitet von „excited dimmer“ = zweiatomige Moleküle im angeregten Zustand (strenge Definition)
+                    - Heutige Excimer-Laser müssten eigentlich Edelgashalogenid-Laser heißen, da sie zwar einen leicht dissoziierenden Grundzustand aufweisen, aber keine Dimere sind
+                    - Edelgase werden erst durch Anregung von Elektronen bzw. Ionisation reaktionsfreudig, sodass sich Edelgashalogenidmoleküle bilden können
+                    - Anwendung: Strukturieren, Markieren, Abtragen, Mikrobearbeitung
+                Diodenlasers (Laserdiode o. Halbleiterlaser)
+                    - Kombination von dotierten Halbleitern
+                    - Durch Aneinanderfügen eines p- und eines n-Halbleiters entsteht eine schmale p-nÜbergangsschicht mit lokal gegeneinander verschobenen Energiebändern.
+                    - Schaltung in Durchlassrichtung (positiver Pol an die p- und negativer Pol an die n-Schicht): Löcher aus der p- Schicht und Elektronen aus der n-Schicht werden in die Übergangszone injiziert
+                    - Elektronen und Löcher rekombinieren dort unter Aussendung von Photonen (spontane Emission)
+                    - Wellenlänge: Abhängig von Energielücke
+                    - Anwendung: Schneiden, Schweißen, Löten, Bohren, Oberflächen-behandlung
+                Strahlführungssysteme
+                    - Linearachsen (Spiegel)
+                    - Rotationsachsen (Spiegel)
+                    - Lichtwellenleiter
+                Abtragmechanismen
+                    - Sublimationsabtrag
+                    - schmelzabtrag
+                    - Abtrag vom festen Werkstoff
+                Laserschneiden
+                    Laser-Brennschneiden
+                        - Der Werkstoff wird bis auf Zündtemperatur erhitzt und durch Sauerstoff zufuhr verbrannt.
+                        - Anwendung: trennen von Materialien
+                    Laser-Schmelzschneiden
+                        - Der Werkstoff wird durch Laserstrahl aufgeschmolzen und mit Hilfe eines reaktionsträgen Gases aus der Schnittfuge geblasen.
+                        - Anwendung: Hochlegierte Stähle, Nichteisenmetalle
+                    Laser-Sublimierschneiden
+                        - Der Werkstoff wird auf Sublimations-temperatur erhitzt und mit Hilfe eines reaktionsträgen Gases aus der Schnittfuge geblasen.
+                        - Anwendung: Holz, Papier, Keramik, Kunststoffe
+                Laserbohren
+                    Verfahrensvarianten
+                        - Einpulsbohren  Bohrungsdurchmesser 0,02 mm bis 0,25 mm, Tiefe bis 2 mm
+                        - Mehrfachpulsbohren  Bohrungsdurchmesser 0,1 mm bis 0,5 mm, Tiefe bis 10 mm
+                        - Trepanierbohren  Führung eines Lasers entlang einer Kreisbahn, Bohrungs-Ø < 4mm
+                Vorteile
+                    - Bearbeitung unabhängig von Härte und Festigkeit
+                    - kein Werkzeug  Kein Verschleiß
+                    - keine Prozesskräfte  keine Vorrichtungen
+                    - unabhängig von der Geometrie
+                    - hohe Maß- und Formgenauigkeit
+                    - filigrane Strukturen mit hohen Geschwindigkeiten
+                    - gratfrei und geringe Rauheiten
+                Nachteile:
+                    - Geringer energetischer Wirkungsgrad
+                    - hohe Investitionskosten
+                    - thermisch induzierte Spannungen
+                    - giftige und krebserregende Verbrennungs- und Pyrolyseprodukte
+                Laserunterstützte Zerspanung
+                    Einsatzgebiete
+                        - Zerspanung hochfester Werkstoffe (Inconel, Titan, Keramik)
+                        - Gleichzeitige Oberflächenbehandlung
+                    Vorteile:
+                        - höhere Werkzeugstandzeiten
+                        - geringere Schnittkräfte
+                        - geringere Rauheit
+
+        Chemisch
+            Ätzabtragen
+                Definition
+                    - Abtragen durch direkte chemische Reaktion eines nicht leitenden Werkstoffs mit einem flüssigen Wirkmedium
+                    - Werkstück= wafer
+                Drei Fälle
+                    - Vollständig anisotrop
+                    - Vollständig isotrop, kein Ünerätzen
+                    - Vollständig isotrop, Überätzt
+            Lithographie
+                Vorgehen
+                    - Strukturierung mittels fokussierter Strahlung (Licht-, Röntgen-, Elektronen/Ionenstrahlung):
+                    - ein Substrat (z.B. Siliziumwafer) wird mit einem Resist beschichtet
+                    - Teile der Kunststoff-/Resistschicht werden nach Vorgabe durch einen CAD-Entwurf hochgenau belichtet bzw. bestrahlt
+                    - durch die Bestrahlung ändert der Resist seine chemischen Eigenschaften
+                    - bestrahlte und unbestrahlte Bereichen besitzen eine unterschiedliche Beständigkeitgegenüber Lösungsmitteln (Entwickler)
+                        - Positiv-Resist: bestrahlter Bereich wird herausgelöst
+                        - Negativ-Resist: unbestrahlter Bereich wird herausgelöst
+                    - Resist ist unempfindlich (resistent) gegen spätere Galvanik- oder Ätzprozesse
+                LIGA - Lithographie und Galvanik und Abformtechnik -->Folie 46
+
+            Thermisch - chemisches Abtragen
+                Definition
+                    - Abtragen durch chemische Reaktion, meist mit Sauerstoff, bei dem die Werkstoffteilchen überwiegend abgebrannt werden.
+                -Grate an Metallischen unf nichtmetallischen Werkstoffen durch Knallgasreaktion  abgebrannt
+        Elektrochemisch
+            Elektrolyse | Electro Chemical Machining (ECM)
+                Anodische Metallauflösung
+                    - wässriges, elektrisch leitendes Medium
+                    - abzutragende metallischer Werkstoff, Anode
+                    - metallische Kathode
+                    - es wird eine Gleichspannung zwischen Anode und Kathode angelegt
+                    - an der Anode geht das Metall unter Abgabe von Elektronen als Metallionen in die Elektrolytlösung über
+                Elektrochemisches Formabtragen
+    Zerlegen
+    Reinigen
+Fügen
+    Zusammensetzen
+        Zusammensetzen ist Fügen, bei dem der Zusammenhalt der Fügeteile
+        durch Schwerkraft (Reibung), Formschluss, Federkraft oder eine Kombination
+        davon bewirkt wird.
+    Füllen
+        Definition
+            Füllen ist eine Sammelbenennung für das Einbringen von gas-oder
+            dampfförmigen, flüssigen oder pastenförmigen Stoffen, ferner von pulverigen
+            oder körnigen Stoffen oder kleinen Körpern in hohle oder poröse Körper.
+        Verfahren
+            Einfüllen
+            Tränken
+            Imprägnieren
+    Anpressen/Einpressen
+        Definition
+            Anpressen, Einpressen ist eine Sammelbenennung für die
+            Verfahren, bei denen beim Fügen die Fügeteile sowie etwaige Hilfsfügeteile im
+            wesentlichen nur elastisch verformt werden und ungewolltes Lösen durch
+            Kraftschluss verhindert wird.
+        Verfahren
+            Schrauben
+            Klemmen
+            Klammern
+            Presspassungen
+    Fügen durch Urformen
+        Definition
+            Fügen durch Urformen ist eine Sammelbenennung für die Verfahren,
+            bei denen entweder zu einem Werkstück ein Ergänzungsstück aus formlosem
+            Stoff gebildet wird oder bei denen mehrere Fügeteile durch
+            dazwischengebrachten formlosen Stoff verbunden oder bei denen in den
+            formlosen Stoff Metallteile o. Ä. eingelegt werden.
+        Verfahren
+             Ausgießen
+             Einbetten
+             vergießen
+             Ummanteln
+             Kitten
+    Fügen durch Umformen
+        Definition
+            Fügen durch Umformen ist eine Sammelbenennung für die
+            Verfahren, bei denen entweder die Fügeteile oder Hilfsfügeteile örtlich umgeformt
+            werden. Die Verbindung ist im Allgemeinen durch Formschluss gegen ungewolltes
+            Lösen gesichert.
+        Verfahren
+            Bördeln
+            falzen
+            Kerben
+            Durchsetzfügen
+                -Fixierung, Durchsetzen, Stauchen, Rückhub
+
+            Stanznieten
+                - Eindringen, stanzen, Formen, Setzen
+
+
+    Fügen durch schweißen
+        Definition
+            Schweißen ein Fügeverfahren, bei dem zwei oder mehr Fügeteile
+            verbunden werden, wobei eine Kontinuität der Werkstoffe der zu verbindenden
+            Fügeteile unter Anwendung von Wärme und/oder Druck hergestellt wird (mit oder
+            ohne Schweißzusatzwerkstoff).
+        Verfahren
+            Laserschweißen
+                 Vorteile des Laserschweißens
+                    -Kein Werkzeugverschleiß, berührungslose Bearbeitung
+                    -Unterschiedliche Materialien und Stärken schweißbar
+                    -Hohe Automatisierbarkeit
+                    -Hohe Verfahrens- und Geometrieflexibilität
+                    -Geringe thermische Werkstoffbeeinflussung
+                    -Sehr geringe Überlappbreiten realisierbar (Leichtbau)
+            MIG-Schweißen
+                -Metal-Insert-Gas
+                Vorgehen:
+                    - Metalldraht wird durch Schweißpistole geführt und in einem Lichtbogen geschmolzen
+                    - Schweißdraht = stromführende Elektrode und einzubringendes Schweißgut
+                    - Ein durch die Gasdüse fließendes Schutzgas schützt den Lichtbogen und das Schmelzgut
+                    - Inert-Gas = Argon, Helium o.ä.
+
+    fügen durch Löten
+        Definition
+            Löten ist ein Fügeprozess, bei dem ein geschmolzenes Lot genutzt wird. Das
+            geschmolzene Lot benetzt die Oberflächen des Grundwerkstoffes und wird
+            während oder bei Ende des Aufheizens in einen engen, zwischen den zu
+            fügenden Teilen befindlichen Spalt hineingezogen.
+        Verfahren
+            Weichlöten -> Unter 450° , mit Flussmittel
+            Hartlöten  -> Über 455°, mit Flussmittel, unter Schutzgas oder im Vakuum
+            Hochtemperaturlöten ->Über 900°C, Unter Schutzgas oder im Vakuum
+    Kleben
+        Definition
+            Kleben ist ein Fügeprozess, bei dem ein nichtmetallischer Werkstoff Fügeteile
+            durch Flächenhaftung und innere Festigkeit (Adhäsion und Kohäsion) verbinden
+            kann.
+        Schlecht:
+            SChälbeanspruchung, zugschälbeanspruchung, Rollschälbeaspruchung
+        Gut:
+            Zug druck
+            Ende Umfalten, klebefläche vergrößern, versteifungen
+
+    Textiles Fügen
+Beschichtung
+    - Dekoration oder Funktion
+    Beschichten aus:
+        ..dem gas/dampf-förmigen Zustand
+            PVD - Physikalische Gasabscheidung
+                - Schichtdicken von <1nm bis >1mm
+                Verfahren
+                    Vakuumaufdampfen
+                        Ablauf
+                            - Stoff wird im Vakuum verdampft(bis 1400°)
+                            - freie Weglänge groß, desshalb direkt zu Substrat
+                            - Moleküle kondensiren auf dem Werkstück
+                        Charakteristik
+                            - hohe Abscheideraten (0,05 bis 25 μm/s)
+                            - Haftfestigkeit gering
+                            - schlechte Streufähigkeit
+                            - Vakuum 10-3 bis 10-8 Pa (Hochvakuum)
+                            - Beschichtungswerkstoffe; reine Metalle, Metalllegierungen,Oxide, Fluoride
+                    aufstäuben (Sputtern)
+                        Ablauf
+                            - Anlegen einer Hochspannung zwischen Werkstück (Anode) und Beschichtungsmaterial/Target (Kathode)
+                            - Elektrisches Feld erzeugt in Argon-Atmosphäre ein Plasma mit Ar+- Ionen und beschleunigt diese auf das Beschichtungsmaterial
+                            - Impuls stäubt atomar Beschichtungsmaterial ab
+                            - Moleküle des Beschichtungsmaterials schlagen sich als Aufstäubeschicht auf das Werkstück nieder
+                    Ionenplattieren
+                        Verfahren
+                            - Kombination aus Abstäuben des Werkstücks zur Reinigung und Verdampfung von Beschichtungsmaterial zum Schichtabscheiden.
+                            - Anlegen einer Hochspannung zwischen Werkstück (Kathode) und Verdampfungsquelle (Anode).
+                            - Elektrisches Feld erzeugt in Argon-Atmosphäre ein Plasma mit Ar+-Ionen und beschleunigt sie auf das Werkstück.
+                            - Durch den Impuls werden Fremdschichten abgestäubt, die Werkstückoberfläche wird gereinigt und aktiviert.
+                            - Gleichzeitig wird Beschichtungsmaterial durch Erhitzung verdampft.
+                            - Verdampfte Moleküle kondensieren auf kaltem Werkstück zur Ionenplattierschicht.
+                        Charakteristik
+                            - hohe Abscheideraten (0,01 bis 25 μm/s)
+                            - sehr gute Haftfestigkeit
+                            - mittlere Streufähigkeit
+                            - Vakuum 0,1 bis 1Pa (Hochvakuum)
+                            - Beschichtungswerkstoffe: Reine Metalle, Metalllegierungen, Oxide, Hartstoffe, Gleitstoffe
+
+
+                Beschichtbare Werkstoffe
+                    Glas
+                    Metalle
+                    Keramiken
+                    Kunststoffe
+                    Metall-Legierungen
+                Beschichtungswerkstoffe
+                    Legierungen
+                    Carbide
+                    Oxide
+                    Metalle
+                    nitride
+            CVD - Chemical Vapour Desposition
+                - Schichtdicke o,1 bis 20 µm
+                - abzuscheidender Stoff liegt als Gas vor
+                Verfahren
+                    CVD (heißdraht- oder Flammaktiviert)
+                    plasma-CVD
+                Beschichtbare Werkstoffe
+                    Glas
+                    Metalle
+                    Keramiken
+                    Nicht-Metalle
+                    Organische Fasern
+                    C-Fasern
+                Beschichtungswerkstoffe
+                    Oxide
+                    Bor/Boride
+                    Metalle
+                    Silizium/Silicide
+                    nitrideKohlenstoff/Carbide
+
+
+        ..dem flüssigen/pastösen Zustand
+            Lackieren
+                Zusammensetzung
+                    Pulver-bundlack, Pulver-Klarlack, Bindemittel, Klarlack, Bundlack
+                Verfahren
+                    Kathodische Tauchlackierung
+
+        ..dem ionisierten Zustand
+        ..dem festen Zustand
+            Thermisches Spritzen
+                Flammenspritzen
+                    Draht-Flamenspritzen
+                    Pulver-Flammenspritzen
+                Hochgeschwindigkeitsflammenspritzen
+                Detonationsspritzen
+
+                Plasmapritzen
+                Lichtbogenspritzen
+                    Lichtbogendrahtspritzen
+                Kaltgasspritzen
+
+        ..sonstige
+Stoffeigenschaften ändern
+    Verfestigen durch Umformen
+        Walzen/Ziehen
+        Verfestigungsstrahlen
+    Wärmebehandeln
+        Vorgehen
+            erwärmen
+            Halten
+            abkühlen
+        Einstellen bestimmter Eigenschaften
+            - Verringern oder Erhöhen der Festigkeit (z.B. Härten, Normalisieren,Weichglühen)
+            - Verbesserung der spangebenden Bearbeitbarkeit (z.B. Weichglühen, Grobkornglühen)
+            - Beseitigen der Auswirkung der Kaltverformung (Rekristallisationsglühen,Normalisieren)
+            - Beseitigen von Eigenspannungen (z.B. Spannungsarmglühen)
+            - Ändern der Korngröße (z.B. Normalisieren, Rekristallisationsglühen,Grobkornglühen)
+            - Erzeugen bestimmter Gefügezustände (z.B. Normalisieren, Weichglühen, Härten)
+            - Beseitigen oder Verringern von Seigerungen (z.B. Diffusionsglühen)
+        Glühverfahren
+            - Diffusionsglühen
+            - Normalglühen
+            - Weichglühen
+            - Spannungsarmglühen
+            - Rekristallisationsglühen
+        Härten und Vergüten
+            Vorgehen
+                - Austenitisieren
+                - Abschrecken
+                - Anlassen
+            Randschichtenhärten
+                Flammenhärten
+                Induktionshärten
+                Laserhärten
+                Umschmelzhärten durch Lichtbogen
+                Tauchhärten in Salz/ Metallbad
+    Thermomechsnidches Behandeln
+        Verfahren der Umformung werden unmittelbar mit der Wärmebehandlung verknüpft.
+        Austenitformhärten
+        Formhärten (Presshärten)
+    Sonstige
+        Bestrahlen
+        Magnetisieren
+        Photochemische Verfahren
+        Sintern, Brennen
+_________________________________________________
+
+Generative Fertigung
+    Technologien
+        Steriolithography
+            • UV-Laser härtet flüssiges Photopolymer an der Oberfläche eines Bades
+            • Durch Absenken der Plattform wird das Bauteil aufgebaut
+            Vorteile
+                -Fertigung großer Teile
+                -Gute Oberflächenqualität
+                -Große Palette an Materialien
+                -Duroplastischer Kunststoff
+            Nachteile
+                -Technologie nur für Photopolymere geeignet
+                -Photoypolymere altern und sind nicht beständig
+                -Materialien kostenintensiv
+                Langsamer Bauprozess
+        Photopolymer Jetting
+            • Druckköpfe sprühen flüssige Photopolymere auf eine Bauplattform
+            • Materialaushärtung findet mittels UV-Lampen statt
+            Vorteile
+                -Auftrag mehrerer verschiedener Materialien möglich
+                -Abstufung der Härte des Bauteils möglich
+                -Sehr genaue Bauteile mit hoher Oberflächengüte
+            Nachteile
+                -Technologie nur für Photopolymere geeignet
+                -Photoypolymere altern und sind nicht beständig
+                -Materialien kostenintensiv
+                -Langsamer Bauprozess
+        Binder Jetting
+            • Druckköpfe applizieren flüssigen Kleber auf dünne Pulverschichten
+            • Verklebung der Pulverschichten erzeugt Bauteil
+            Vorteile
+                -Herstellung bunter Bauteile möglich (Zufuhr über Klebstoff)
+                -Schnelle und preiswerte Technologie
+                -Viele Materialien können verarbeitet werden
+                -Stützstruktur wird nicht benötigt (nicht verklebtes Pulver stützt)
+            Nachteile
+                -Beschränkte mechanische Eigenschaften
+                -Nachgelagertes Sintern zur Steigerung der Festigkeit nötig
+                -Schrumpfungen im Sinterprozess
+
+        Selectiv Laser  Melting
+            • Dünne Metallpulverschicht wird durch Laser selektiv aufgeschmolzen
+            • Bauteile werden Schicht um Schicht im Pulverbett aufgebaut
+            Vorteile
+                -Herstellung von Bauteilen mittels Standardmetallen
+                -Gute mechanische Eigenschaften
+                -Weiterverarbeitung wie geschweißtes Bauteil
+            Nachteile
+                -Zur Wärmeabfuhr werden Stützstrukturen benötigt
+                -Oberflächenqualität und Toleranzen limitiert
+                -Langsame und teure Technologie
+                -Ausbildung von Geometriesprüngen
+
+        Electron Beam Melting
+            • Dünne Metallpulverschicht wird durch Elektronenstrahl selektiv aufgeschmolzen
+            • Bauteile werden Schicht um Schicht im Pulverbett aufgebaut
+            Vorteile
+                -Herstellung von Bauteilen mittels Standardmetallen
+                -Gute mechanische Eigenschaften
+                -Weniger thermische Spannungen als beim Laser Sintern
+            Nachteile
+                -Zur Wärmeabfuhr werden Stützstrukturen benötigt
+                -Oberflächenqualität schlechter als beim Laser Sintern
+                -Langsame und teure Technologie
+        Fused Deposition Modeling (FDM)
+            • Kunststoffdraht wird aufgeschmolzen und durch Düse extrudiert
+            • Bauteile werden Schicht um Schicht durch Ablegen des Kunststoffs aufgebaut
+            Vorteile
+                -Herstellung von funktionalen Bauteilen aus Kunststoffen
+                -Gute mechanische Eigenschaften
+                -Zeitbeständig
+            Nachteile
+                -Anisotropie durch Schichtaufbau
+                -Stufenstruktur der Oberfläche
+                -Feine Details nicht zu realisieren
+        Selective Laser Sintering (SLS)
+            • Dünne Kunststoffschicht wird von Laser selektiv aufgeschmolzen
+            • Bauteile werden Schicht um Schicht im Pulverbett aufgebaut
+            Vorteile
+                -Herstellung von funktionalen Bauteilen aus Kunststoffen
+                -Gute mechanische Eigenschaften
+                -Viele Materialien verfügbar
+                -Preiswertes Verfahren
+            Nachteile
+                -Postprozess relativ aufwendig
+                -Oberflächenqualität bedingt gut
+                -Prozessgase
+        Material Jetting (MJ)
+            • Druckköpfe sprühen geschmolzenes Wachs auf eine Bauplattform
+            • Wachs verfestigt sich bei schichtweisem Aufbau
+
+            Vorteile
+                -Hohe Genauigkeit
+                -Gute Oberflächengüte
+                -Herstellung von Guss-Wachsen
+
+            Nachteile
+                -Nur Wachs-ähnliche Materialien einsetzbar
+                -Bauteile fragil
+                -Langsamer Prozess
+    Fertigungsverfahren
+        Generative Verfahren
+            • Schichtweiser Aufbau
+            • Keine Späne
+            • Keine Kühlschmierstoffe
+        Subtraktive Verfahren
+            • Trennverfahren
+            • Späne
+            • Kühlschmierstoffe
+    Begriffe
+Hybrider Leichtbau
+      Verbund/Hybrid
+          Verbundwerkstoffe
+              -Kombination unterschd. Werkstoffe zu neuem
+              -maßgeschneiderte Eigenschaften
+              -Verbundwerkstoffe meist makroskopisch homogen
+          Werkstoffverbunde
+              -Bauteile aus mehreren unterschd. Werkstoffen
+              -über großflächige Verbindung hergestellt
+              -Bauteile sind makroskopisch inhomogen
+          Hybride
+              -unterschd. Werkstoffgruppen innerhal eines Bauteils
+              -oder innerhalb der selben Baugruppe
+              -hierzu auch Werkstoffverbunde und Verbundwerkstoffe
+      Fertigungsansätze
+          Bauteilherstellung + Fügen
+              -verbinden monolithischer("aus einem Stück") Bauteile unterschd. werkstoffe mittels nachgeschalteten Fügeprozess (Schrauben, Kleben etc.)
+              -Fügevorbereitung nötig
+          Bauteilherstellung mit integriertem Fügen
+              -Prozessintegiriertes Fügen (Spritzguss, Thermoforming etc.)
+              -In Kombination mit einer Vorkonfektionierung
+          Leichtbaustrategien
+              Konzeptleichtbau: Betrachtung des Gesamt- bzw. Teilsystems
+                  • Einbindung neuer Lastpfade
+                  • Entwicklung von Strukturen mit Funktionsintegration
+              Formleichtbau: Anpassung der Struktur an die gegebenen Anforderungen
+                  • Lasteinleitungs-, Belastungsgerecht
+                  • eng verknüpft mit Konzept- und Stoffleichtbau
+              Fertigungsleichtbau: Potentiale durch Herstellung, Montage, und Fertigung
+                  • Herstellung von Blechstrukturen mit unterschiedlichen Wandstärken
+                  • eng verknüpft mit Stoff- und Formleichtbau
+              Bedingungsleichtbau: Anforderungen aus Politik, Gesellschaft und Gesetzgebung
+                  • Crashanforderungen
+                  • Verwertung etc.
+      Verbundwerkstoffe/Werkstoffverbunde
+          Teilchenverbundwerkstoff
+              -Syntaktischer Schaum
+              -Beton
+          Faservebundwerkstoff
+              -Faser-Kunststoff-Verbund
+              -Metal Matrix Composite
+          Schichtverbundwerkstoff
+              -Sperrholz
+              -Hartpapier
+      Faserversärkte Kunststoffe(genauere Betrachtung)
+          Allgemein
+              -Fasern können gerichtet oder regellos vorliegen
+              -Unidirektionale Schichten (UD) Können zur Mehrschichtverbundsystemen (MSV) kombiniert werden
+              -Anpassung an Belastungsfall
+              ->Versagensarten: Faserbruch (längs mit der Faser)->Zug/Druck, Zwischenfaserbruch (parallel zur faser) ->Zug, Druck, Schub
+         Anwendungsfelder (Automobil)
+            Interieur
+                -Instrumententräger
+                -Konsolen
+                -Verkleidung
+            Komponenten
+                -Fahrwerkkomponenten
+                -Querlenker
+                -Hilfsrahmen
+            Karosserie/ Strukturen
+                -Innentür
+                -Dachträger
+            Crash-relevante Bauteile
+                -Längsträger
+                -B-Säule
+        Fertigungsverfahren
+            Formgebundene Verfahren
+              ->hoher Werkzeug-Invest
+              ->Limitierung der Bauteilgröße
+              ->aber: kostengünstiger Leichtbau bei hoher Produktivität
+              Hybrid-Umformen
+                  ->Bauteile mit geringer bis mittlerer geometrischer Komplexität
+                  ->kleine bis mittlere Serien
+                  ->bsp. Strukturbauteile
+              Hybrid Spritzguss
+                  ->Bauteile mit hoher geometrischer Komplexität möglich
+                  ->Anspritzen von Einlegern z. B. Stahl- oder Organobleche
+                  ->Umformen des Einlegers vorher oder direkt im Werkzeug
+                  ->Lastpfadoptimierte Rippenstruktur möglich
+                  ->bsp. Batteriegehäuse
+              RTM
+                  ->Bauteile mit geringer bis mittlerer geometrischer Komplexität
+                  ->mittlere bis große Serien
+                  Vorteile:
+                      -Exakte Bauteilgeometrien
+                      -Kostengünstige Halbzeuge
+                      -Mittlere Zykluszeiten
+                      -Automatisierbare Fertigung
+                  Nachteile:
+                      -kostenintensive Werkzeuge
+                  Fertigung(flächige FKV):
+                      -Fasermatten werden passend zugeschnitten ->Halbzeug
+                      -Verformen des trockenen Halbzeugs zum sogenannten "Perform"
+                      -Tränken der Fasern mit Harzmatrix->Aushärtung
+                  ->bsp. Bodenstrukturen
+              Prepeg(Vorimprägnierte Gewebematten)/Autoklav
+                  Vorteile:
+                      -Geringe Fertigungstoleranzen
+                      -Geringe Werkzeugkosten
+                  Nachteile:
+                      -Lange Zykluszeiten
+                      -Hoher manueller Aufwand
+                  Fertigung(flächige FKV):
+                      -Einsatz Prepeg
+                      -Ablegen der Prepegs und mit Vakuumfolie abddecken
+                      -Aushärten unter Druck(>6bar) und Temperatur(ca.170°C)
+              Sheet Moulding Compound
+                  Vorteile:
+                      -Exakte Bauteilgeometrien
+                      -Kostengünstige Halbzeuge
+                      -Kurze Zykluszeiten
+                      -Automatisierbare Fertigung
+                  Nachteile:
+                      -kostenintensive Werkzeuge
+            Kontinuierliche Verfahren
+              ->eingeschränkte Geometriefreiheut ->Forschungspotenzial
+              ->aber: geringe Werkzeuginvestition bei hoher Produktivität
+              Hybrid Rollprofilieren
+                  ->Lineare & gekrümmte metallische Strukturen mit lokalen FVK-Verstärkungen (2D)
+                  ->Mittlere bis große Serien
+              Pulltrusion
+                  ->Lineare & gekrümmte Endlosfaserbauteile
+                  ->Mittlere bis große Serien
+                  Fertigung(profilförmige Bauteile):
+                      -Glasfasern werden durch Harz-Bad gezogen Imprägnierung
+                      -Beheiztes Werkzeug bestimmt die spätere Profilform
+                      -Profil wird kontinuierlich durch Werkzeug gezogen und auf Maß geschnitten
+            Additive Verfahren
+                Restriktionen: Geschwindigkeit (-> Forschungspotenzial!)
+                Chancen: Verfahrenskombinationen => neue Fertigungskonzepte!
+                Vorteile: Flexibilität, Werkstoffausnutzung (-> kostenattraktiv!)
+
+                Tape-Legen Gesamtstruktur
+                    -Additive Bauteilherstellung durch sukzessiven Lagenaufbau
+                    -Kleine Stückzahlen
+                    -Flächige Strukturen (z.B. Seitenleitwerk)
+                Tape-Legen Verstärkung
+                    -Einzelne Fasertapes und -patches zur lokalen Verstärkung dünner Blechstrukturen
+                    -Kleine bis mittlere/große Stückzahlen
+                    -z.B. lok. Verstärkung von Strukturbauteilen
+
+Messtechnik/ Prozessüberwachung

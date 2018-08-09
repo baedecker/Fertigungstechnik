@@ -1,0 +1,438 @@
+_________________________________________________
+Urformen
+    Gießen
+    Pulver-metalurgie
+Umformen
+    Spannungszusetand    
+        
+        Druckumformen
+            Gesenkschmieden
+                -Negativform
+                -Obergesenk, Untergesenk, Gravur, Rohling, Schmiedeteil
+                Ohne Gradmulde
+                    -Vollständige Werkstoffausnutzung
+                    -Zulässige Volumenschwankung 0,5 %
+                    -Genaue Werkstoffzentrierung erf.
+                Mit Gradmulde
+                    -geringe Anforderungen an Werkstoffvolumenschwankung
+                    -keine Präzise Positionierung erf.
+                    -entfernen des Grades erforderlich
+                Werkzeugverschlleiß
+                    -Reibung, rissbildung durch ermüdung(termisch/mechanisch), plasitsche Verformung
+            Walzen
+                Ringwalzen
+                Verzahnungswalzen
+                    - Kurze Prozesszeiten
+                    - Keine Späne
+                    - Kaltverfestigung führt zu Festigkeitssteigerung
+                    - Spiegelblanke Oberflächen
+                    - Konturangepasster „Faserverlauf“    
+            Fließpressen
+                - Voll, Hohl, Napf
+                - Quer, vorwärts, rückwärts
+                - Anwendung: Alu büchsen, hydraulische zylinder unf Kolben
+            Srangpressen
+            Drücken
+                -Engen, aufweiten, Innenborde, außenborde, einhalsen, Gewindedrücken
+                - Fertigungsfehler: radiale/tangentiale Risse, Faltenbildung
+
+
+
+        Zugdruckumformen
+            Tiefziehen
+                Tiefzeihfehler: Zipfelbildung, außermittige Rondenlage, Bodenreißer, Lippenbildung
+                taylor blanks
+        Zugumformen
+            Streckziehen
+                Einfaches Streckziehen
+                Tangentiales Streckziehen
+                Versagensformen: einschnüren, sprödbruch, Risse im Scheitelbereich/im verecj der spanzange
+
+        Biegeumformen
+            Gesenkbiegen
+                Problem der Rückfederung
+
+
+        Schubumformen
+            Verschieben
+    Einsatztemperatur
+        Kaltumformung 20°
+        Halbwarmumformung 720-950°
+        Warmumformung 1200°
+    Halbzeug
+        Massivumformung
+        Blechumformung
+    Stationäre/Instationäre Umformpreozesse
+    
+Trennen
+    Geometrisch bestimmte Schneide
+        
+            Drehen
+            Fräsen            
+            Bohren
+            Räumen 
+            Sägen?
+    Geometrisch unbestimmte Schneide
+         Schleifen
+Fügen 
+    Zusammensetzen
+        Zusammensetzen ist Fügen, bei dem der Zusammenhalt der Fügeteile
+        durch Schwerkraft (Reibung), Formschluss, Federkraft oder eine Kombination
+        davon bewirkt wird.   
+    Füllen
+        Definition
+            Füllen ist eine Sammelbenennung für das Einbringen von gas-oder
+            dampfförmigen, flüssigen oder pastenförmigen Stoffen, ferner von pulverigen
+            oder körnigen Stoffen oder kleinen Körpern in hohle oder poröse Körper.
+        Verfahren
+            Einfüllen
+            Tränken
+            Imprägnieren
+    Anpressen/Einpressen
+        Definition
+            Anpressen, Einpressen ist eine Sammelbenennung für die
+            Verfahren, bei denen beim Fügen die Fügeteile sowie etwaige Hilfsfügeteile im
+            wesentlichen nur elastisch verformt werden und ungewolltes Lösen durch
+            Kraftschluss verhindert wird.
+        Verfahren
+            Schrauben
+            Klemmen
+            Klammern
+            Presspassungen       
+    Fügen durch Urformen
+        Definition
+            Fügen durch Urformen ist eine Sammelbenennung für die Verfahren,
+            bei denen entweder zu einem Werkstück ein Ergänzungsstück aus formlosem
+            Stoff gebildet wird oder bei denen mehrere Fügeteile durch
+            dazwischengebrachten formlosen Stoff verbunden oder bei denen in den
+            formlosen Stoff Metallteile o. Ä. eingelegt werden.  
+        Verfahren
+             Ausgießen
+             Einbetten
+             vergießen
+             Ummanteln
+             Kitten
+    Fügen durch Umformen
+        Definition
+            Fügen durch Umformen ist eine Sammelbenennung für die
+            Verfahren, bei denen entweder die Fügeteile oder Hilfsfügeteile örtlich umgeformt
+            werden. Die Verbindung ist im Allgemeinen durch Formschluss gegen ungewolltes
+            Lösen gesichert.
+        Verfahren
+            Bördeln
+            falzen
+            Kerben
+            Durchsetzfügen
+                -Fixierung, Durchsetzen, Stauchen, Rückhub
+
+            Stanznieten
+                - Eindringen, stanzen, Formen, Setzen
+
+    
+    Fügen durch schweißen
+        Definition
+            Schweißen ein Fügeverfahren, bei dem zwei oder mehr Fügeteile
+            verbunden werden, wobei eine Kontinuität der Werkstoffe der zu verbindenden
+            Fügeteile unter Anwendung von Wärme und/oder Druck hergestellt wird (mit oder
+            ohne Schweißzusatzwerkstoff).
+        Verfahren
+            Laserschweißen
+                 Vorteile des Laserschweißens
+                    -Kein Werkzeugverschleiß, berührungslose Bearbeitung
+                    -Unterschiedliche Materialien und Stärken schweißbar
+                    -Hohe Automatisierbarkeit
+                    -Hohe Verfahrens- und Geometrieflexibilität
+                    -Geringe thermische Werkstoffbeeinflussung
+                    -Sehr geringe Überlappbreiten realisierbar (Leichtbau)
+            MIG-Schweißen
+                -Metal-Insert-Gas
+                Vorgehen:
+                    - Metalldraht wird durch Schweißpistole geführt und in einem Lichtbogen geschmolzen
+                    - Schweißdraht = stromführende Elektrode und einzubringendes Schweißgut
+                    - Ein durch die Gasdüse fließendes Schutzgas schützt den Lichtbogen und das Schmelzgut
+                    - Inert-Gas = Argon, Helium o.ä.
+
+    fügen durch Löten
+        Definition
+            Löten ist ein Fügeprozess, bei dem ein geschmolzenes Lot genutzt wird. Das
+            geschmolzene Lot benetzt die Oberflächen des Grundwerkstoffes und wird
+            während oder bei Ende des Aufheizens in einen engen, zwischen den zu
+            fügenden Teilen befindlichen Spalt hineingezogen.
+        Verfahren
+            Weichlöten -> Unter 450° , mit Flussmittel
+            Hartlöten  -> Über 455°, mit Flussmittel, unter Schutzgas oder im Vakuum
+            Hochtemperaturlöten ->Über 900°C, Unter Schutzgas oder im Vakuum
+    Kleben
+        Definition
+            Kleben ist ein Fügeprozess, bei dem ein nichtmetallischer Werkstoff Fügeteile
+            durch Flächenhaftung und innere Festigkeit (Adhäsion und Kohäsion) verbinden
+            kann.
+        Schlecht:
+            SChälbeanspruchung, zugschälbeanspruchung, Rollschälbeaspruchung
+        Gut:
+            Zug druck
+            Ende Umfalten, klebefläche vergrößern, versteifungen
+
+    Textiles Fügen
+
+
+Beschichtung
+    - Dekoration oder Funktion
+    Beschichten aus:
+        ..dem gas/dampf-förmigen Zustand
+            PVD - Physikalische Gasabscheidung
+                - Schichtdicken von <1nm bis >1mm
+                Verfahren
+                    Vakuumaufdampfen   
+                        Ablauf
+                            - Stoff wird im Vakuum verdampft(bis 1400°)    
+                            - freie Weglänge groß, desshalb direkt zu Substrat
+                            - Moleküle kondensiren auf dem Werkstück
+                        Charakteristik
+                            - hohe Abscheideraten (0,05 bis 25 μm/s)
+                            - Haftfestigkeit gering
+                            - schlechte Streufähigkeit
+                            - Vakuum 10-3 bis 10-8 Pa (Hochvakuum)
+                            - Beschichtungswerkstoffe; reine Metalle, Metalllegierungen,Oxide, Fluoride
+                    aufstäuben (Sputtern)
+                        Ablauf
+                            - Anlegen einer Hochspannung zwischen Werkstück (Anode) und Beschichtungsmaterial/Target (Kathode)
+                            - Elektrisches Feld erzeugt in Argon-Atmosphäre ein Plasma mit Ar+- Ionen und beschleunigt diese auf das Beschichtungsmaterial
+                            - Impuls stäubt atomar Beschichtungsmaterial ab
+                            - Moleküle des Beschichtungsmaterials schlagen sich als Aufstäubeschicht auf das Werkstück nieder                           
+                    Ionenplattieren
+                        Verfahren
+                            - Kombination aus Abstäuben des Werkstücks zur Reinigung und Verdampfung von Beschichtungsmaterial zum Schichtabscheiden.
+                            - Anlegen einer Hochspannung zwischen Werkstück (Kathode) und Verdampfungsquelle (Anode).
+                            - Elektrisches Feld erzeugt in Argon-Atmosphäre ein Plasma mit Ar+-Ionen und beschleunigt sie auf das Werkstück.
+                            - Durch den Impuls werden Fremdschichten abgestäubt, die Werkstückoberfläche wird gereinigt und aktiviert.
+                            - Gleichzeitig wird Beschichtungsmaterial durch Erhitzung verdampft.
+                            - Verdampfte Moleküle kondensieren auf kaltem Werkstück zur Ionenplattierschicht.
+                        Charakteristik
+                            - hohe Abscheideraten (0,01 bis 25 μm/s)
+                            - sehr gute Haftfestigkeit
+                            - mittlere Streufähigkeit
+                            - Vakuum 0,1 bis 1Pa (Hochvakuum)
+                            - Beschichtungswerkstoffe: Reine Metalle, Metalllegierungen, Oxide, Hartstoffe, Gleitstoffe
+            
+
+                Beschichtbare Werkstoffe
+                    Glas 
+                    Metalle 
+                    Keramiken
+                    Kunststoffe
+                    Metall-Legierungen
+                Beschichtungswerkstoffe 
+                    Legierungen
+                    Carbide
+                    Oxide
+                    Metalle
+                    nitride
+            CVD - Chemical Vapour Desposition  
+                - Schichtdicke o,1 bis 20 µm
+                - abzuscheidender Stoff liegt als Gas vor
+                Verfahren
+                    CVD (heißdraht- oder Flammaktiviert)
+                    plasma-CVD
+                Beschichtbare Werkstoffe 
+                    Glas
+                    Metalle
+                    Keramiken
+                    Nicht-Metalle
+                    Organische Fasern
+                    C-Fasern
+                Beschichtungswerkstoffe
+                    Oxide
+                    Bor/Boride
+                    Metalle
+                    Silizium/Silicide
+                    nitrideKohlenstoff/Carbide
+
+
+        ..dem flüssigen/pastösen Zustand
+            Lackieren
+                Zusammensetzung
+                    Pulver-bundlack, Pulver-Klarlack, Bindemittel, Klarlack, Bundlack
+                Verfahren
+                    Kathodische Tauchlackierung
+
+        ..dem ionisierten Zustand
+        ..dem festen Zustand
+            Thermisches Spritzen
+                Flammenspritzen 
+                    Draht-Flamenspritzen
+                    Pulver-Flammenspritzen
+                Hochgeschwindigkeitsflammenspritzen
+                Detonationsspritzen
+
+                Plasmapritzen
+                Lichtbogenspritzen
+                    Lichtbogendrahtspritzen
+                Kaltgasspritzen
+
+        ..sonstige
+
+Stoffeigenschaften ändern
+    Verfestigen durch Umformen
+        Walzen/Ziehen
+        Verfestigungsstrahlen
+    Wärmebehandeln
+        Vorgehen
+            erwärmen
+            Halten
+            abkühlen
+        Einstellen bestimmter Eigenschaften
+            - Verringern oder Erhöhen der Festigkeit (z.B. Härten, Normalisieren,Weichglühen)
+            - Verbesserung der spangebenden Bearbeitbarkeit (z.B. Weichglühen, Grobkornglühen)
+            - Beseitigen der Auswirkung der Kaltverformung (Rekristallisationsglühen,Normalisieren)
+            - Beseitigen von Eigenspannungen (z.B. Spannungsarmglühen)
+            - Ändern der Korngröße (z.B. Normalisieren, Rekristallisationsglühen,Grobkornglühen)
+            - Erzeugen bestimmter Gefügezustände (z.B. Normalisieren, Weichglühen, Härten)
+            - Beseitigen oder Verringern von Seigerungen (z.B. Diffusionsglühen)
+        Glühverfahren
+            - Diffusionsglühen
+            - Normalglühen
+            - Weichglühen
+            - Spannungsarmglühen
+            - Rekristallisationsglühen
+        Härten und Vergüten
+            Vorgehen
+                - Austenitisieren 
+                - Abschrecken
+                - Anlassen
+            Randschichtenhärten
+                Flammenhärten
+                Induktionshärten
+                Laserhärten
+                Umschmelzhärten durch Lichtbogen
+                Tauchhärten in Salz/ Metallbad
+    Thermomechsnidches Behandeln
+        Verfahren der Umformung werden unmittelbar mit der Wärmebehandlung verknüpft.
+        Austenitformhärten
+        Formhärten (Presshärten)
+    Sonstige
+        Bestrahlen
+        Magnetisieren
+        Photochemische Verfahren
+        Sintern, Brennen
+_________________________________________________
+
+Generative Fertigung
+    Technologien
+        Steriolithography
+            • UV-Laser härtet flüssiges Photopolymer an der Oberfläche eines Bades
+            • Durch Absenken der Plattform wird das Bauteil aufgebaut
+            Vorteile
+                -Fertigung großer Teile
+                -Gute Oberflächenqualität
+                -Große Palette an Materialien
+                -Duroplastischer Kunststoff
+            Nachteile
+                -Technologie nur für Photopolymere geeignet
+                -Photoypolymere altern und sind nicht beständig
+                -Materialien kostenintensiv
+                Langsamer Bauprozess
+        Photopolymer Jetting
+            • Druckköpfe sprühen flüssige Photopolymere auf eine Bauplattform
+            • Materialaushärtung findet mittels UV-Lampen statt
+            Vorteile
+                -Auftrag mehrerer verschiedener Materialien möglich
+                -Abstufung der Härte des Bauteils möglich
+                -Sehr genaue Bauteile mit hoher Oberflächengüte
+            Nachteile
+                -Technologie nur für Photopolymere geeignet
+                -Photoypolymere altern und sind nicht beständig
+                -Materialien kostenintensiv
+                -Langsamer Bauprozess
+        Binder Jetting
+            • Druckköpfe applizieren flüssigen Kleber auf dünne Pulverschichten
+            • Verklebung der Pulverschichten erzeugt Bauteil
+            Vorteile
+                -Herstellung bunter Bauteile möglich (Zufuhr über Klebstoff)
+                -Schnelle und preiswerte Technologie
+                -Viele Materialien können verarbeitet werden
+                -Stützstruktur wird nicht benötigt (nicht verklebtes Pulver stützt)
+            Nachteile
+                -Beschränkte mechanische Eigenschaften
+                -Nachgelagertes Sintern zur Steigerung der Festigkeit nötig
+                -Schrumpfungen im Sinterprozess
+
+        Selectiv Laser  Melting
+            • Dünne Metallpulverschicht wird durch Laser selektiv aufgeschmolzen
+            • Bauteile werden Schicht um Schicht im Pulverbett aufgebaut
+            Vorteile
+                -Herstellung von Bauteilen mittels Standardmetallen
+                -Gute mechanische Eigenschaften
+                -Weiterverarbeitung wie geschweißtes Bauteil
+            Nachteile
+                -Zur Wärmeabfuhr werden Stützstrukturen benötigt
+                -Oberflächenqualität und Toleranzen limitiert
+                -Langsame und teure Technologie
+                -Ausbildung von Geometriesprüngen
+
+        Electron Beam Melting
+            • Dünne Metallpulverschicht wird durch Elektronenstrahl selektiv aufgeschmolzen
+            • Bauteile werden Schicht um Schicht im Pulverbett aufgebaut
+            Vorteile
+                -Herstellung von Bauteilen mittels Standardmetallen
+                -Gute mechanische Eigenschaften
+                -Weniger thermische Spannungen als beim Laser Sintern
+            Nachteile
+                -Zur Wärmeabfuhr werden Stützstrukturen benötigt
+                -Oberflächenqualität schlechter als beim Laser Sintern
+                -Langsame und teure Technologie
+        Fused Deposition Modeling (FDM)
+            • Kunststoffdraht wird aufgeschmolzen und durch Düse extrudiert
+            • Bauteile werden Schicht um Schicht durch Ablegen des Kunststoffs aufgebaut
+            Vorteile
+                -Herstellung von funktionalen Bauteilen aus Kunststoffen
+                -Gute mechanische Eigenschaften
+                -Zeitbeständig
+            Nachteile
+                -Anisotropie durch Schichtaufbau
+                -Stufenstruktur der Oberfläche
+                -Feine Details nicht zu realisieren
+        Selective Laser Sintering (SLS)
+            • Dünne Kunststoffschicht wird von Laser selektiv aufgeschmolzen
+            • Bauteile werden Schicht um Schicht im Pulverbett aufgebaut
+            Vorteile
+                -Herstellung von funktionalen Bauteilen aus Kunststoffen
+                -Gute mechanische Eigenschaften
+                -Viele Materialien verfügbar
+                -Preiswertes Verfahren
+            Nachteile
+                -Postprozess relativ aufwendig
+                -Oberflächenqualität bedingt gut
+                -Prozessgase
+        Material Jetting (MJ)
+            • Druckköpfe sprühen geschmolzenes Wachs auf eine Bauplattform
+            • Wachs verfestigt sich bei schichtweisem Aufbau
+
+            Vorteile
+                -Hohe Genauigkeit
+                -Gute Oberflächengüte
+                -Herstellung von Guss-Wachsen
+                
+            Nachteile
+                -Nur Wachs-ähnliche Materialien einsetzbar
+                -Bauteile fragil
+                -Langsamer Prozess  
+    
+    
+    Fertigungsverfahren
+        Generative Verfahren
+            • Schichtweiser Aufbau
+            • Keine Späne
+            • Keine Kühlschmierstoffe           
+        Subtraktive Verfahren
+            • Trennverfahren
+            • Späne
+            • Kühlschmierstoffe
+    Begriffe
+        
+  
+            
+
+
+Hybrider Leichtbau
+Messtechnik/ Prozessüberwachung
